@@ -1,16 +1,33 @@
-# React + Vite
+# 🍿 React Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive frontend clone of the Netflix web interface. This project demonstrates proficiency in React, state management, and asynchronous API integration. It dynamically fetches and displays movies and TV shows across various categories.
 
-Currently, two official plugins are available:
+**[View Live Demo](https://react-netflix-clone-three-pi.vercel.app/)** 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+* **Dynamic Data:** Fetches real-time movie data, trending lists, and categories.
+* **Responsive Design:** Optimized for mobile, tablet, and desktop viewing.
+* **Trailer Playback:** (Optional: include this if you added YouTube trailer functionality).
+* **Hero Banner:** Features a randomly selected trending movie on page load.
+* **Horizontal Scrolling:** Smooth row-based navigation for movie categories.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* **Frontend:** React.js, HTML5, CSS3 
+* **Hosting:** Vercel
+* **API:** [TMDB (The Movie Database)]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+To run this project locally, you will need to add your own API key.
+
+### Prerequisites
+* Node.js installed on your machine
+* An API key from [TMDB]
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/react-netflix-clone.git](https://github.com/sharmayush06/react-netflix-clone.git)
