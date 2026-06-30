@@ -30,4 +30,4 @@ To run this project locally, you will need to add your own API key.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/react-netflix-clone.git](https://github.com/sharmayush06/react-netflix-clone.git)
+   git clone https://github.com/sharmayush06/react-netflix-clone.git
